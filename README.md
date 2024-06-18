@@ -2,10 +2,11 @@
 
 ## Hello World
 
-> 안녕하세요 Java, Spring 기반 백엔드 개발자 유지형입니다.<br>유지보수 가능한 코드, 쉽게 읽히는 코드, 테스트를 통해 뒷받침되는 코드를 지향합니다.
-<br><br>
+> 안녕하세요 Java, Spring 기반 백엔드 개발자 유지형입니다.<br>한가지 기술을 사용하더라도 제대로 알고 사용하고자 합니다.<br><br>스프링 코어, MVC, DB 접근 기술을 이해하는 데에 관심이 깊으며,<br>운영체제, 네트워크, DB를 비롯한 CS지식을 정리하기 위한 노력도 함께 하고 있습니다.<br><br>📗하루키 소설과 🏋운동을 즐깁니다
 
 <br>
+
+
 
 <img src="https://img.shields.io/badge/Java-595959?style=for-the-badge&logo=java" />&emsp;<img src="https://img.shields.io/badge/SpringBoot-595959?style=for-the-badge&logo=springboot" />&emsp;<img src="https://img.shields.io/badge/Spring%20Data%20JPA-595959?style=for-the-badge&logo=springdatajpa" />
 
@@ -35,8 +36,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjh1118)](https://solved.ac/yjh1118)
-<br>
-![Boj History](http://mazandi.herokuapp.com/api?handle=yjh1118&theme=dark)
 <br>
 ![LeetCode](https://leetcard.jacoblin.cool/justintime1118?theme=dark&site=un&hide=ranking&ext=heatmap)
 
